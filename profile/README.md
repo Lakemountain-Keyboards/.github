@@ -6,6 +6,6 @@
   
   Hardware repo: https://github.com/Lakemountain-Keyboards/hardware
   
-  ![ls65](LS65.jpeg)
+  ![ls65](https://user-images.githubusercontent.com/15632671/218985703-ac0def6f-d006-479b-9c9b-1d7214da15d0.jpeg)
 
 </div>
